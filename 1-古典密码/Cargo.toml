@@ -1,0 +1,10 @@
+[package]
+name = "gudian"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.5"
+colored = "2.2"
+nalgebra = "0.33"
+regex = "1.11.1"
